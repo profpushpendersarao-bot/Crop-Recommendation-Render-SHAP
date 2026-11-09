@@ -4,4 +4,4 @@ joblib==1.5.2
 numpy==2.2.6
 pandas==2.3.3
 scikit-learn==1.7.2
-shap==0.50.0
+shap==0.53.0
